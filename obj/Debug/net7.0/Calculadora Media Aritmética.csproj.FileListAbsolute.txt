@@ -1,0 +1,15 @@
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\bin\Debug\net7.0\Calculadora Media Aritmética.exe
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\bin\Debug\net7.0\Calculadora Media Aritmética.deps.json
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\bin\Debug\net7.0\Calculadora Media Aritmética.runtimeconfig.json
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\bin\Debug\net7.0\Calculadora Media Aritmética.dll
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\bin\Debug\net7.0\Calculadora Media Aritmética.pdb
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\Calculadora Media Aritmética.csproj.AssemblyReference.cache
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\Calculadora Media Aritmética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\Calculadora Media Aritmética.AssemblyInfoInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\Calculadora Media Aritmética.AssemblyInfo.cs
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\Calculadora Media Aritmética.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\Calculadora Media Aritmética.dll
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\refint\Calculadora Media Aritmética.dll
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\Calculadora Media Aritmética.pdb
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\Calculadora Media Aritmética.genruntimeconfig.cache
+C:\Users\Paulo Gonçalves\Desktop\Calculadora Media Aritmética\obj\Debug\net7.0\ref\Calculadora Media Aritmética.dll
